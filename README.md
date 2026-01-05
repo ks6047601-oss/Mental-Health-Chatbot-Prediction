@@ -1,2 +1,21 @@
-# Mental-Health-Chatbot-Prediction
-Mental Health Chatbot + Prediction is a machine learning–based application that evaluates mental health risk using survey responses and predictive models. It integrates an interactive chatbot interface, real-time risk scoring, and data visualization to provide personalized mental wellness insights through a user-friendly Streamlit web application.
+# 🧠 Mental Health Chatbot + Prediction
+
+This Streamlit app predicts the likelihood of needing mental health treatment based on user responses to a questionnaire.
+
+## Features
+- Chatbot-style questionnaire
+- Logistic Regression prediction model
+- Emoji-based feedback
+- Risk score visualization
+- Personalized wellness tips
+- PDF report download
+- Hosted on Streamlit Cloud
+
+## Dataset
+[Mental Health in Tech Survey – Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
+
+## Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+

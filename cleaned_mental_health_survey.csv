@@ -1,0 +1,989 @@
+Age,Gender,family_history,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,treatment
+37,Male,No,Often,6-25,No,Yes,Yes,Not sure,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+44,Male,No,Rarely,More than 1000,No,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,No
+32,Male,No,Rarely,6-25,No,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,No,No,No
+31,Male,Yes,Often,26-100,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,Yes,Yes
+31,Male,No,Never,100-500,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,No
+33,Male,Yes,Sometimes,6-25,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,No
+35,Male,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,No,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Yes
+39,Male,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,Don't know,No,No,No,No,No,No,No,No,No
+42,Male,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,Yes
+23,Male,No,Never,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No
+31,Male,No,Sometimes,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+29,Male,No,Never,100-500,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,No
+42,Male,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Yes,Yes
+36,Male,Yes,Never,500-1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,No
+27,Male,No,Never,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,No
+29,Male,Yes,Rarely,26-100,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,Some of them,Maybe,Maybe,Don't know,No,Yes
+23,Male,No,Sometimes,26-100,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,No,No,Yes
+32,Male,No,Sometimes,6-25,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,No,No,Yes
+46,Male,Yes,Sometimes,1-5,Yes,Yes,Yes,Not sure,Yes,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,Yes,No
+29,Male,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No,Yes
+31,Male,No,Never,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,Yes,No,No
+46,Male,No,Often,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,Yes
+41,Male,No,Never,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Yes,Don't know,No,Yes
+33,Male,Yes,Rarely,26-100,No,Yes,Yes,Not sure,Don't know,Yes,Yes,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No,Yes
+35,Male,Yes,Sometimes,More than 1000,No,No,Yes,Yes,No,Don't know,No,Very easy,Yes,No,Some of them,Yes,No,Yes,No,No,Yes
+35,Male,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+34,Male,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,No,No,No,No,No,Yes
+37,Male,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,No
+32,Male,No,Never,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,No
+31,Male,Yes,Rarely,1-5,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No,No,No,Yes,No
+30,Male,Yes,Sometimes,500-1000,Yes,Yes,Don't know,No,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Don't know,No,Yes
+42,Male,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No,Yes
+40,Male,No,Sometimes,1-5,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Yes,No,Yes
+27,Male,No,Rarely,6-25,No,Yes,No,Yes,No,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Yes
+29,Male,No,Rarely,1-5,No,Yes,No,No,No,No,Don't know,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,No
+35,Male,No,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+24,Male,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No,Yes,Yes
+27,Male,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,Some of them,No,No,No,Yes,No,Yes
+18,Male,No,Often,6-25,No,Yes,No,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,Some of them,No,No,No,No,No
+30,Male,No,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,No,No,No,Maybe,Don't know,No,Yes
+38,Male,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Yes
+26,Male,No,Sometimes,1-5,No,Yes,No,Yes,Yes,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,No
+30,Male,Yes,Rarely,26-100,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes
+22,Male,Yes,Often,6-25,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,No,No,No,Maybe,Don't know,No,Yes
+32,Male,No,Never,1-5,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,No
+27,Male,Yes,Rarely,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes
+24,Male,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Yes,Yes,No,No,Yes
+33,Male,Yes,Often,6-25,Yes,Yes,Don't know,No,No,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,Yes
+44,Male,Yes,Sometimes,More than 1000,No,No,Yes,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Yes,Yes
+26,Male,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Yes
+27,Male,No,Never,100-500,No,Yes,Yes,Not sure,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No
+35,Male,No,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,No
+40,Male,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,Yes,No
+23,Male,Yes,Often,1-5,Yes,Yes,No,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+36,Male,No,Sometimes,100-500,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Yes,Yes,No,No
+34,Male,No,Rarely,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,No
+28,Male,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,No
+34,Male,No,Never,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,No
+23,Male,No,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,Yes,Yes,No,No,No,No,No
+33,Male,No,Never,More than 1000,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,No
+31,Male,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No
+32,Male,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Yes,No,No,Yes
+28,Male,No,Never,6-25,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,No
+38,Male,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,No,No,Yes,Some of them,Maybe,Maybe,Yes,No,No
+23,Male,No,Never,26-100,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+30,Male,No,Never,26-100,No,No,No,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,No,No,No
+27,Male,No,Often,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,Yes
+33,Male,Yes,Never,More than 1000,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,No
+39,Male,No,Often,6-25,No,Yes,No,No,No,No,Don't know,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,Yes,Yes
+34,Male,Yes,Rarely,500-1000,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+29,Female,No,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,Yes
+31,Male,No,Never,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,No
+40,Male,No,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+25,Female,No,Sometimes,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Yes
+29,Male,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,No,No,No
+24,Male,Yes,Rarely,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,No
+31,Male,Yes,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,No,No,Yes
+33,Male,No,Sometimes,6-25,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,Yes
+30,Male,No,Often,1-5,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+26,Male,Yes,Sometimes,26-100,No,No,No,Yes,No,No,No,Very difficult,Yes,No,No,No,No,Maybe,No,Yes,Yes
+44,Male,No,Never,100-500,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No,No
+33,Male,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes
+29,Male,No,Never,More than 1000,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,No
+35,Male,Yes,Rarely,6-25,No,Yes,Yes,Not sure,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,No
+35,Male,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,Yes
+28,Male,Yes,Rarely,6-25,No,Yes,No,No,No,No,No,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,Yes,Yes
+34,Male,Yes,Never,6-25,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,No
+32,Male,No,Sometimes,26-100,No,Yes,Yes,No,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+22,Male,No,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Yes,No,No,No,No,Yes,No,No,Yes
+28,Male,No,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Yes
+45,Male,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+32,Male,No,Never,100-500,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,No
+26,Male,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,Yes,No
+21,Male,No,Often,1-5,Yes,No,No,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,No
+27,Male,No,Rarely,6-25,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,No
+18,Male,No,Rarely,1-5,Yes,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,No,No,No,Don't know,No,Yes
+29,Male,No,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,No
+33,Male,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,Don't know,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,Yes
+36,Male,No,Often,6-25,No,Yes,Yes,No,No,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,No
+27,Male,No,Never,100-500,No,No,Yes,Not sure,No,No,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,Yes
+27,Male,Yes,Never,500-1000,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,Yes,No,Some of them,No,No,Yes,Don't know,No,No
+32,Male,No,Rarely,100-500,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Yes,No,No,Yes,No,No,Don't know,No,Yes
+31,Male,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Yes,No,No
+19,Male,No,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,Yes
+33,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Yes,No,No,Yes
+32,Male,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Maybe,No,Yes,Some of them,No,Yes,Don't know,No,No
+27,Male,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,No
+24,Male,No,Never,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Yes
+39,Male,No,Never,26-100,No,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,No
+28,Male,No,Never,6-25,No,Yes,Don't know,No,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+39,Male,No,Often,More than 1000,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Yes
+38,Male,Yes,Sometimes,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes
+37,Male,No,Sometimes,More than 1000,No,No,No,Yes,Yes,Yes,Yes,Very difficult,Yes,Yes,Some of them,No,No,Maybe,Yes,No,Yes
+35,Male,No,Never,26-100,Yes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,No
+37,Male,Yes,Rarely,100-500,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No,Yes
+24,Male,No,Never,6-25,No,Yes,No,No,No,No,Yes,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No,No
+23,Male,No,Sometimes,6-25,No,No,No,No,No,No,No,Somewhat easy,Yes,Yes,No,No,No,No,No,No,No
+30,Male,No,Rarely,100-500,No,Yes,No,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,No,Yes,Yes
+32,Male,Yes,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,No
+28,Male,No,Rarely,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,No
+36,Male,No,Never,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,No
+37,Male,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Yes,Maybe,Some of them,No,No,Yes,No,Yes,Yes
+25,Male,Yes,Sometimes,26-100,No,No,Don't know,No,No,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Yes
+27,Male,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,No,Yes
+26,Male,No,Often,26-100,No,No,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,No,No,No
+27,Male,No,Rarely,26-100,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,Yes
+25,Male,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Very easy,Maybe,No,Some of them,No,No,No,Don't know,Yes,Yes
+36,Male,No,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes
+25,Female,Yes,Sometimes,500-1000,No,Yes,Yes,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Yes
+31,Male,No,Never,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,No
+26,Male,Yes,Rarely,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,No
+33,Female,Yes,Sometimes,1-5,No,Yes,No,Yes,Yes,Yes,Yes,Very difficult,No,No,Some of them,Yes,No,Yes,Yes,No,Yes
+34,Male,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,No
+23,Male,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,No
+24,Male,No,Rarely,100-500,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,No
+26,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Yes
+31,Male,No,Often,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Yes
+22,Male,No,Never,More than 1000,No,Yes,Don't know,Not sure,No,No,Don't know,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No,Yes
+34,Male,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,Yes
+31,Male,No,Never,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,No
+32,Male,No,Often,6-25,Yes,Yes,Yes,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,Yes,Yes
+45,Female,No,Sometimes,1-5,No,Yes,Yes,No,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Yes
+29,Male,No,Never,6-25,Yes,Yes,No,No,No,No,No,Don't know,Maybe,Maybe,No,Yes,Maybe,Yes,No,No,No
+26,Female,No,Sometimes,6-25,No,No,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No
+28,Male,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,No
+45,Male,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Yes
+43,Male,Yes,Often,More than 1000,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,Yes,Maybe,No,No,No,No,No,No,Yes
+24,Male,No,Sometimes,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,No
+35,Male,Yes,Never,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Yes,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Yes
+38,Male,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes
+28,Male,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,No,No,Yes
+28,Male,No,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,No
+35,Male,No,Rarely,6-25,No,Yes,No,No,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+32,Male,No,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,No
+31,Other,Yes,Never,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,No
+35,Male,No,Never,500-1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,No
+26,Male,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,No
+28,Male,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Yes
+27,Male,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,Yes
+34,Male,No,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Yes
+41,Male,No,Often,6-25,Yes,Yes,No,Not sure,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Yes
+37,Male,No,Sometimes,1-5,No,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,No,No,No,Yes,Don't know,No,No
+32,Male,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,Yes
+21,Male,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Yes
+30,Male,No,Often,26-100,No,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,Yes
+24,Male,No,Never,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,No
+37,Male,Yes,Sometimes,26-100,No,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,Don't know,No,No
+26,Male,No,Often,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Yes
+32,Female,Yes,Sometimes,6-25,No,Yes,Don't know,No,No,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Yes
+32,Female,No,Sometimes,100-500,No,No,Yes,Yes,Don't know,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,Yes
+27,Male,Yes,Sometimes,1-5,Yes,Yes,No,No,Don't know,Don't know,Don't know,Very difficult,No,No,Some of them,No,No,No,Don't know,No,Yes
+30,Male,No,Often,6-25,Yes,Yes,Yes,Yes,No,No,Yes,Very difficult,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Yes
+29,Female,No,Never,500-1000,No,No,Yes,No,No,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,No,No,No,Don't know,No,Yes
+28,Male,No,Rarely,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,No
+28,Male,No,Sometimes,More than 1000,No,Yes,No,Yes,No,No,Yes,Very difficult,Yes,No,No,Some of them,No,No,No,No,Yes
+23,Male,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,No,Yes,No,Yes,Yes,No,No
+32,Male,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,No,No,Some of them,Yes,No,Maybe,Yes,No,No
+34,Male,No,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Yes,Yes,Don't know,Somewhat difficult,Yes,Yes,No,No,No,Maybe,Yes,No,No
+24,Male,No,Never,6-25,No,Yes,Yes,Not sure,No,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,Yes,No,No
+26,Male,No,Sometimes,1-5,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,Yes
+36,Male,No,Sometimes,26-100,No,Yes,Yes,No,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes
+41,Male,No,Rarely,500-1000,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,Maybe,Maybe,No,No,Yes
+38,Male,No,Sometimes,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,Yes
+38,Male,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,No
+25,Male,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,No
+37,Male,Yes,Often,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Yes
+37,Female,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Yes
+28,Male,Yes,Sometimes,6-25,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,No,Yes,Yes
+34,Male,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,Yes
+33,Male,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+27,Male,No,Never,More than 1000,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+40,Male,No,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Maybe,No,No,No,Maybe,No,Yes,Yes
+21,Male,No,Often,6-25,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Yes
+32,Male,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No,Yes
+29,Female,Yes,Rarely,500-1000,Yes,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No,Yes
+23,Male,Yes,Sometimes,26-100,Yes,No,Don't know,No,No,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No,Yes
+31,Male,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+24,Male,No,Sometimes,6-25,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,No
+29,Male,No,Often,6-25,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,No
+23,Male,No,Sometimes,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,Yes
+42,Male,No,Never,6-25,Yes,Yes,No,Yes,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,No
+25,Male,Yes,Often,6-25,No,Yes,No,Yes,No,No,No,Very difficult,Yes,Maybe,No,No,No,Yes,No,Yes,Yes
+27,Male,No,Rarely,6-25,No,Yes,Yes,No,No,No,Yes,Don't know,Maybe,Maybe,Yes,No,No,Maybe,Don't know,No,Yes
+27,Male,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,No
+30,Male,No,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,No,Yes,No,Yes
+29,Male,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,Some of them,Some of them,No,Yes,No,No,Yes
+41,Male,No,Sometimes,26-100,Yes,Yes,Yes,Yes,Don't know,No,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+32,Male,Yes,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,Don't know,Yes,Yes
+37,Male,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Yes
+32,Male,No,Never,6-25,Yes,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,No
+30,Male,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,No
+23,Male,Yes,Never,100-500,No,No,Yes,No,Don't know,Don't know,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes
+34,Male,No,Sometimes,26-100,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,No,Don't know,No,No
+38,Male,No,Rarely,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,Yes
+28,Male,No,Sometimes,6-25,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Don't know,No,No
+28,Male,No,Rarely,100-500,No,No,Yes,Yes,Yes,Don't know,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Yes,No,Yes
+23,Male,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,No
+22,Male,Yes,Sometimes,6-25,Yes,Yes,Don't know,Not sure,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,No,Yes,Yes
+27,Male,No,Never,6-25,No,Yes,No,No,No,No,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,No
+18,Male,No,Sometimes,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Yes
+35,Male,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,Don't know,No,Yes
+27,Male,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,No,Yes
+26,Male,Yes,Rarely,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes
+18,Male,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,No
+38,Male,No,Sometimes,1-5,No,Yes,No,Yes,No,No,Don't know,Don't know,No,Maybe,Some of them,No,No,No,Don't know,Yes,Yes
+26,Male,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,Yes
+30,Male,No,Never,1-5,No,Yes,No,No,No,No,No,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,No
+35,Male,No,Never,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,No
+45,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes
+32,Male,No,Never,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,No
+56,Male,No,Never,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,Maybe,Yes,Some of them,No,Maybe,Don't know,No,Yes
+30,Female,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,Yes
+33,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Yes
+37,Male,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,No
+23,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,Yes
+31,Female,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Yes
+26,Male,No,Rarely,100-500,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,No
+28,Male,Yes,Often,100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,No,Yes,No,Yes
+37,Female,No,Rarely,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Yes
+26,Male,Yes,Often,6-25,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Yes
+30,Other,Yes,Rarely,26-100,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes
+27,Male,No,Sometimes,100-500,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,No
+25,Male,No,Often,6-25,Yes,No,Don't know,No,No,Don't know,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,Don't know,No,Yes
+35,Male,No,Rarely,100-500,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+36,Male,No,Never,1-5,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Yes
+26,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,No,No,No,Yes
+25,Male,No,Never,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+22,Male,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,Yes,Yes
+41,Male,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes
+29,Male,No,Sometimes,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,No,Yes
+32,Male,No,Never,500-1000,No,Yes,Yes,Not sure,Don't know,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+24,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+25,Male,No,Rarely,6-25,No,Yes,Yes,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes
+30,Male,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Don't know,No,No
+25,Male,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,Yes
+30,Male,No,Never,1-5,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,No
+33,Male,Yes,Rarely,1-5,No,No,No,No,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,Maybe,No,Yes,Yes,Yes
+25,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Yes
+45,Male,No,Often,1-5,No,Yes,No,No,No,No,Don't know,Very difficult,No,No,No,No,No,No,Don't know,No,Yes
+46,Male,No,Never,26-100,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,No
+30,Male,No,Sometimes,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Yes
+29,Female,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No
+33,Female,Yes,Sometimes,26-100,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,No
+27,Male,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,Yes,No,No,No,No,Maybe,No,No,No
+33,Male,No,Rarely,1-5,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,No
+25,Female,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+23,Male,Yes,Sometimes,100-500,No,No,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,No,Yes
+54,Male,Yes,Never,More than 1000,No,Yes,Don't know,No,Yes,Yes,Don't know,Don't know,No,No,No,Yes,No,No,Don't know,No,Yes
+22,Male,No,Sometimes,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,No
+25,Other,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Yes
+29,Male,No,Often,6-25,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,Don't know,No,No
+27,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,No,No,No,Yes,Yes,No,Yes
+30,Male,No,Never,6-25,No,Yes,No,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No
+26,Male,Yes,Often,More than 1000,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Yes
+25,Male,Yes,Sometimes,6-25,No,Yes,Yes,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,No
+31,Male,No,Sometimes,500-1000,No,No,No,Yes,No,Don't know,Yes,Don't know,No,No,Some of them,No,No,No,No,No,Yes
+33,Male,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes
+34,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Yes,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,Yes
+34,Male,No,Sometimes,100-500,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Yes,Yes,Some of them,Some of them,No,Maybe,Don't know,No,Yes
+34,Male,Yes,Rarely,26-100,Yes,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,Yes
+26,Male,Yes,Rarely,100-500,Yes,No,No,No,No,Don't know,No,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,Yes
+32,Male,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Yes,Yes,No,Yes
+28,Male,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,No,No,No,Yes
+36,Male,Yes,Often,100-500,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Yes
+21,Male,Yes,Rarely,100-500,No,Yes,Yes,No,No,Don't know,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Yes
+21,Male,No,Sometimes,6-25,No,No,Don't know,Not sure,No,No,No,Very easy,Yes,No,Some of them,No,No,Maybe,No,No,Yes
+41,Male,Yes,Often,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes,Yes
+55,Male,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes
+32,Female,No,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+21,Female,Yes,Rarely,26-100,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Yes,Don't know,No,Yes
+45,Male,No,Never,26-100,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Yes
+27,Male,No,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,Maybe,No,No,No,No,No,No,Yes
+25,Male,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,Yes
+34,Female,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Yes
+26,Female,Yes,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes
+41,Male,No,Never,500-1000,No,Yes,Yes,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Yes
+27,Male,No,Rarely,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+31,Other,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,Yes
+25,Male,Yes,Often,26-100,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Yes,No,No,Yes
+26,Male,No,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Yes
+27,Male,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,No,Yes,No,No,Don't know,No,Yes
+42,Male,No,Never,500-1000,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,No
+29,Other,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,No,No,Don't know,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No,Yes
+25,Male,No,Sometimes,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,Yes
+33,Male,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Yes,Don't know,No,Yes
+40,Male,Yes,Rarely,More than 1000,No,No,Yes,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Don't know,No,Yes
+31,Male,No,Never,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,Don't know,No,No
+26,Male,Yes,Often,26-100,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes
+29,Male,No,Never,More than 1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,No
+35,Male,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes,No
+32,Male,No,Never,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,No
+29,Male,No,Sometimes,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,Yes
+26,Male,Yes,Often,6-25,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,No,No,Yes
+28,Male,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,Yes
+35,Male,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Yes
+29,Male,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Yes
+33,Male,Yes,Never,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Maybe,Yes,Some of them,No,No,Yes,No,Yes
+22,Male,No,Never,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,No,Don't know,No,No
+33,Male,Yes,Often,More than 1000,Yes,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Yes,No,No,No,No,No,No,No,Yes
+31,Male,Yes,Rarely,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,Yes
+21,Male,Yes,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,Yes,No
+31,Other,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Yes,Yes,No,Yes
+26,Female,No,Sometimes,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No,Yes
+30,Male,Yes,Often,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,No
+30,Other,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,No,No,Yes
+34,Male,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Don't know,No,No
+55,Male,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,Yes,Yes
+28,Male,Yes,Rarely,1-5,Yes,Yes,Yes,No,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes
+28,Male,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,Yes,No,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+32,Male,Yes,Sometimes,6-25,No,Yes,No,No,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+28,Male,No,Rarely,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes
+21,Male,No,Sometimes,6-25,No,No,Don't know,Not sure,No,Yes,Yes,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,No
+24,Male,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,Yes
+28,Male,No,Never,100-500,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,No
+24,Female,Yes,Rarely,6-25,No,Yes,No,No,No,No,Don't know,Very easy,Yes,No,No,Some of them,No,Yes,Yes,No,Yes
+33,Male,No,Often,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Yes,Yes,Don't know,No,Yes
+34,Male,No,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,No
+27,Male,No,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+28,Male,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,No
+23,Male,No,Sometimes,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+29,Male,Yes,Rarely,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+26,Male,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,No
+36,Male,No,Rarely,More than 1000,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,No
+41,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,Yes,Yes
+23,Male,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes
+39,Male,Yes,Often,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,No
+26,Female,No,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,Yes
+24,Male,No,Rarely,26-100,No,Yes,Yes,Yes,Yes,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+37,Male,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+43,Male,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+40,Other,Yes,Never,More than 1000,No,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Yes,No,No
+30,Male,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,No,Don't know,Very difficult,Yes,No,Some of them,No,No,No,No,Yes,Yes
+34,Male,No,Sometimes,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,Don't know,No,Yes
+27,Male,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,Yes
+36,Male,No,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No,No
+27,Male,No,Rarely,6-25,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,No
+35,Male,Yes,Never,100-500,No,Yes,Yes,No,No,No,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,No
+32,Male,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,Yes,No,No
+33,Male,No,Never,500-1000,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Very easy,Maybe,No,Some of them,Yes,No,No,Yes,No,No
+28,Other,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,No
+26,Male,Yes,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,Maybe,No,No,No
+27,Male,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+38,Male,No,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,Yes
+57,Male,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,Yes
+28,Male,No,Sometimes,More than 1000,No,Yes,No,No,No,No,No,Very difficult,Yes,Maybe,No,Some of them,No,Maybe,No,No,Yes
+26,Male,No,Never,6-25,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,No,No,No
+42,Female,No,Rarely,100-500,Yes,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,Yes
+31,Male,No,Sometimes,100-500,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes
+58,Male,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Yes,No,Yes
+29,Male,No,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,No
+39,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,Yes
+34,Male,No,Sometimes,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,No
+57,Male,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No,Yes
+27,Male,Yes,Sometimes,6-25,No,Yes,No,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,Yes
+23,Male,Yes,Often,26-100,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,Maybe,Yes,Yes,Maybe,Yes,Don't know,No,Yes
+23,Male,No,Never,26-100,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,No
+43,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Yes,Don't know,No,Yes
+18,Male,Yes,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Yes
+29,Male,No,Rarely,6-25,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+48,Male,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,No
+43,Male,No,Sometimes,26-100,No,No,No,Yes,Don't know,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,No,Yes,Yes
+28,Male,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,Yes
+30,Male,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes
+26,Male,No,Sometimes,6-25,No,Yes,No,No,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,No
+33,Male,No,Never,6-25,No,No,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,No
+30,Male,No,Rarely,100-500,No,No,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,No
+24,Male,Yes,Sometimes,1-5,Yes,Yes,No,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,Yes
+23,Male,Yes,Often,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Yes,Yes
+36,Male,No,Sometimes,More than 1000,No,No,Yes,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,Yes
+25,Male,Yes,Often,1-5,Yes,Yes,Don't know,Not sure,No,No,Yes,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,Yes
+54,Male,No,Sometimes,More than 1000,Yes,No,No,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,No,No,Yes
+34,Male,No,Rarely,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,No
+25,Male,No,Never,More than 1000,No,No,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No,No
+35,Male,No,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,Yes
+46,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,Yes
+42,Male,No,Never,100-500,No,No,Yes,No,Yes,No,Don't know,Very difficult,Maybe,No,Yes,Yes,Maybe,Yes,No,No,No
+32,Male,Yes,Sometimes,6-25,Yes,Yes,Yes,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+47,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Yes,Yes,No,Yes
+33,Male,No,Sometimes,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Yes
+25,Female,No,Sometimes,6-25,No,Yes,No,No,No,No,No,Somewhat easy,Maybe,No,Some of them,No,No,No,Yes,No,No
+39,Male,No,Never,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,No
+38,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,Yes,No,No,No,No,No,No,No,Yes
+46,Male,No,Rarely,500-1000,Yes,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+38,Male,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Yes,Yes,No,No,No,Yes,Yes
+33,Male,No,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,Yes
+34,Male,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,No,No,Yes
+62,Male,No,Never,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+25,Male,Yes,Rarely,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Yes,No,No,No,No,Don't know,Yes,No
+36,Male,Yes,Sometimes,1-5,Yes,Yes,Don't know,Yes,Don't know,No,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,Yes,No,Yes
+41,Male,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Yes
+24,Male,No,Sometimes,1-5,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,No
+51,Male,No,Sometimes,26-100,Yes,Yes,No,Yes,Yes,No,No,Somewhat difficult,Yes,Yes,No,No,No,No,Don't know,Yes,Yes
+29,Male,No,Sometimes,6-25,No,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,No,Some of them,No,No,Yes,No,Yes
+31,Male,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,Yes
+31,Male,No,Rarely,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+27,Male,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,No
+23,Male,No,Rarely,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+21,Male,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,No
+27,Male,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,No,Yes
+39,Male,Yes,Often,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,No,Some of them,Yes,No,No,No,No,Yes
+26,Male,Yes,Never,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,No,No,Yes
+27,Male,No,Never,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No
+22,Male,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,No,Yes,Yes
+26,Female,Yes,Often,100-500,No,No,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,Yes
+31,Male,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Yes
+32,Male,No,Never,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+28,Male,Yes,Often,100-500,Yes,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,No,Yes,Yes
+28,Other,Yes,Rarely,100-500,No,Yes,No,Not sure,No,No,Yes,Somewhat difficult,Yes,Yes,Some of them,Some of them,Yes,No,No,Yes,Yes
+30,Male,No,Never,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No
+36,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Somewhat difficult,Yes,No,Some of them,Yes,No,Yes,No,No,Yes
+30,Male,No,Often,26-100,No,Yes,No,No,Don't know,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No,No
+32,Male,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Yes
+29,Male,No,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Yes
+21,Other,No,Sometimes,26-100,No,Yes,No,Yes,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Yes,No,Yes
+27,Male,Yes,Rarely,100-500,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No,Yes
+32,Male,No,Often,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes
+34,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No
+22,Male,Yes,Sometimes,6-25,Yes,Yes,No,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Yes
+27,Male,Yes,Sometimes,100-500,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,No,No,No,Yes,No,Yes
+33,Male,No,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,No
+36,Male,No,Rarely,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Yes
+40,Male,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,No,No,No,No
+28,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,No,No,Yes
+39,Male,No,Sometimes,500-1000,No,Yes,Yes,Not sure,Yes,Don't know,Yes,Don't know,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No,Yes
+32,Male,No,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Somewhat easy,No,No,Yes,Some of them,Maybe,Yes,Don't know,No,Yes
+31,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,Yes,No,No,No
+38,Other,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Yes
+23,Male,Yes,Rarely,1-5,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,Yes
+42,Other,No,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No,Yes
+27,Male,No,Sometimes,500-1000,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,No
+26,Male,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,No,Yes,Yes
+50,Male,No,Never,26-100,Yes,Yes,No,Yes,No,No,Don't know,Don't know,No,No,No,No,No,Maybe,No,No,No
+37,Male,Yes,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,No
+33,Male,Yes,Sometimes,6-25,Yes,Yes,Don't know,Not sure,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,No
+29,Male,No,Never,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,No,No,Yes,No,No,No
+34,Male,Yes,Sometimes,26-100,Yes,No,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes
+41,Male,Yes,Often,More than 1000,No,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Yes,Yes
+29,Male,No,Never,More than 1000,No,No,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,Don't know,Yes,Yes
+35,Male,No,Never,6-25,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+27,Male,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Don't know,Yes,No,Some of them,Yes,No,No,No,No,No
+40,Male,No,Never,26-100,No,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No,No
+27,Male,No,Often,100-500,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes,Yes
+29,Female,No,Never,26-100,No,Yes,Yes,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,No
+31,Male,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,Yes
+43,Male,No,Sometimes,6-25,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Don't know,No,Yes
+34,Male,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,Yes
+29,Male,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes
+19,Male,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Yes
+41,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,Yes
+29,Male,Yes,Never,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,No
+23,Male,No,Rarely,100-500,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,No
+24,Male,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,Yes
+31,Male,Yes,Rarely,100-500,No,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,No,No,Yes,Yes
+29,Male,Yes,Often,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,No
+33,Male,Yes,Sometimes,100-500,No,No,Yes,Not sure,No,No,Yes,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,Yes
+30,Male,Yes,Often,1-5,Yes,No,No,Yes,No,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Yes
+32,Male,No,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,No
+50,Male,No,Sometimes,1-5,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,No
+24,Male,No,Never,26-100,No,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Yes,Some of them,No,No,Maybe,No,No,No
+27,Male,No,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,No
+32,Male,No,Sometimes,6-25,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes
+42,Male,No,Rarely,6-25,Yes,No,No,Yes,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+37,Male,No,Often,More than 1000,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,No
+30,Male,No,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Yes,No,Yes,No
+29,Male,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Don't know,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,No
+30,Male,No,Often,6-25,Yes,Yes,No,Not sure,No,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,Yes
+35,Male,No,Never,26-100,No,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,No
+35,Male,Yes,Rarely,100-500,Yes,No,Yes,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No,Yes
+38,Male,Yes,Often,26-100,Yes,Yes,No,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,No
+22,Male,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Yes
+24,Male,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Don't know,No,No
+22,Male,No,Never,1-5,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,No,Yes,No
+31,Male,No,Often,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Yes
+23,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,No,Yes
+31,Male,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Yes
+28,Male,Yes,Rarely,500-1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,No,Some of them,No,No,No,No,Yes
+37,Other,Yes,Sometimes,100-500,No,No,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,Yes
+34,Male,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,No,No,Yes
+32,Male,No,Sometimes,26-100,Yes,Yes,No,Yes,No,No,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,No
+28,Male,Yes,Sometimes,26-100,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,Don't know,Yes,Yes
+24,Male,No,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Yes
+56,Male,Yes,Rarely,6-25,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+31,Male,No,Sometimes,6-25,Yes,Yes,No,No,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No
+34,Male,No,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Yes
+35,Male,No,Rarely,100-500,No,No,Don't know,No,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes
+28,Male,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Don't know,No,No
+36,Male,Yes,Often,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,Yes,Yes
+30,Male,No,Often,26-100,No,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+49,Male,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Yes,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,Yes
+29,Male,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,Yes,Yes
+57,Male,No,Never,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,Don't know,Yes,No
+31,Male,Yes,Rarely,100-500,No,No,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Yes,Yes
+37,Male,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,No
+25,Male,Yes,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Yes
+30,Male,No,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,No
+26,Female,Yes,Sometimes,100-500,No,No,No,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,No
+22,Male,No,Often,6-25,No,Yes,No,No,No,No,Don't know,Don't know,No,No,No,Some of them,No,Yes,Don't know,No,No
+39,Male,No,Rarely,More than 1000,Yes,No,Don't know,No,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,No
+29,Male,Yes,Never,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No,Yes
+54,Male,Yes,Sometimes,1-5,Yes,Yes,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Yes,Yes,Yes,Don't know,Yes,Yes
+34,Male,Yes,Never,500-1000,No,No,Don't know,No,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,Yes,No
+32,Male,No,Never,500-1000,No,No,Yes,Not sure,Yes,Yes,Don't know,Very easy,Maybe,No,No,No,No,No,Yes,No,Yes
+29,Male,No,Rarely,1-5,No,Yes,No,No,No,No,No,Somewhat difficult,No,Maybe,Some of them,No,No,No,Yes,No,No
+32,Male,No,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,No
+30,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Maybe,No,Some of them,Yes,No,Yes,Yes,No,Yes
+20,Female,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,No
+27,Male,No,Never,1-5,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,No
+32,Male,No,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No
+26,Male,No,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+30,Male,No,Sometimes,More than 1000,No,No,Don't know,No,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,No
+30,Male,No,Sometimes,26-100,Yes,Yes,No,No,Don't know,No,Don't know,Very difficult,Maybe,Maybe,Some of them,No,No,No,No,No,Yes
+26,Male,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,No
+26,Male,No,Never,26-100,No,Yes,No,Not sure,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,No,No,Maybe,Don't know,No,No
+23,Male,Yes,Sometimes,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,No
+26,Male,Yes,Never,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,No
+35,Male,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,No
+28,Male,No,Sometimes,26-100,Yes,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Yes
+29,Male,Yes,Rarely,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,Yes
+45,Male,No,Often,1-5,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,Yes
+33,Male,No,Rarely,26-100,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes
+38,Male,No,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+19,Other,Yes,Often,26-100,No,No,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,Maybe,No,No,Yes
+29,Male,No,Rarely,More than 1000,Yes,No,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,Don't know,No,Yes
+23,Male,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Yes
+33,Male,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Yes
+49,Male,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,Yes
+27,Female,No,Sometimes,6-25,Yes,Yes,Don't know,Not sure,Yes,Don't know,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+23,Male,No,Sometimes,6-25,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+29,Male,No,Never,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,No
+32,Male,No,Sometimes,26-100,No,No,Yes,Yes,No,No,Yes,Very easy,No,No,No,Yes,No,No,Yes,No,Yes
+33,Male,Yes,Rarely,1-5,Yes,Yes,No,Yes,Yes,Yes,No,Very difficult,No,No,Yes,Yes,No,No,Yes,Yes,Yes
+37,Male,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,Yes
+23,Male,No,Often,26-100,No,No,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+43,Male,Yes,Sometimes,26-100,No,No,Yes,Not sure,No,Yes,Don't know,Somewhat easy,Yes,No,No,No,No,No,No,No,Yes
+32,Male,No,Rarely,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Maybe,No,Yes,Yes
+26,Male,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,No
+32,Male,No,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes
+29,Male,No,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+30,Male,Yes,Never,100-500,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,No
+29,Male,No,Never,6-25,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,No
+32,Male,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,No,No,Yes
+30,Male,Yes,Sometimes,More than 1000,No,No,Don't know,No,No,No,No,Very difficult,Yes,No,Some of them,No,No,Yes,No,Yes,Yes
+25,Male,Yes,Never,6-25,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,No,No,Yes
+33,Male,Yes,Sometimes,1-5,No,No,No,Yes,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Yes
+31,Male,No,Never,100-500,Yes,Yes,No,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No,No
+21,Male,No,Rarely,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,No
+30,Male,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,Yes
+43,Male,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Very difficult,Yes,No,Yes,No,No,Maybe,No,Yes,Yes
+37,Male,No,Often,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,Yes,Yes,Maybe,Yes,No,No,Yes
+33,Male,No,Never,100-500,No,No,No,Not sure,No,No,Don't know,Very easy,No,No,Yes,Some of them,No,Yes,No,No,No
+33,Male,No,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+36,Male,Yes,Sometimes,More than 1000,Yes,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Yes
+37,Male,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,Yes
+39,Male,No,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Very easy,No,No,No,Some of them,No,Yes,Yes,No,Yes
+31,Male,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,Yes
+36,Male,No,Sometimes,100-500,Yes,Yes,Yes,Yes,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Yes
+30,Male,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,Don't know,No,Yes
+35,Male,Yes,Rarely,6-25,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes
+19,Male,No,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,Yes,Don't know,No,Yes
+37,Male,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes
+40,Male,No,Never,6-25,No,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+36,Male,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,No
+29,Male,Yes,Sometimes,26-100,Yes,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Yes
+38,Female,Yes,Sometimes,26-100,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes
+26,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,Yes
+34,Male,No,Rarely,26-100,No,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,Maybe,Maybe,Yes,No,No
+21,Male,No,Often,More than 1000,No,No,No,Yes,No,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,Yes,Yes
+31,Male,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,No,No,No,No,Yes,No,No
+37,Male,Yes,Rarely,26-100,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,No,Maybe,Yes,No,Yes
+37,Male,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+38,Male,Yes,Sometimes,1-5,No,Yes,No,No,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,Yes
+27,Male,No,Sometimes,100-500,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,No,Yes
+33,Male,Yes,Sometimes,1-5,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,Some of them,No,No,No,No,No,Yes
+27,Male,No,Never,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,No,Yes,Yes,Don't know,No,No
+36,Female,No,Never,6-25,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,Yes
+28,Male,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,No
+39,Male,No,Sometimes,500-1000,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+33,Male,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,Yes,No,Yes
+37,Male,Yes,Rarely,6-25,No,Yes,No,No,No,No,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,Yes
+39,Male,No,Sometimes,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,Yes
+43,Other,No,Sometimes,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,No,No,No
+32,Other,No,Sometimes,More than 1000,No,No,Don't know,No,Yes,Yes,Don't know,Don't know,No,No,Yes,Some of them,Yes,Yes,Yes,Yes,Yes
+43,Male,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes
+33,Male,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes
+34,Male,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+25,Male,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,Yes,Yes
+25,Male,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes
+39,Male,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Yes
+29,Male,No,Rarely,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,Yes,No
+33,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+37,Male,No,Often,6-25,Yes,Yes,Don't know,Not sure,No,No,Yes,Somewhat difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,Yes
+35,Male,No,Sometimes,100-500,No,No,Yes,No,No,No,Yes,Very difficult,Yes,Maybe,No,Some of them,No,Yes,No,Yes,Yes
+22,Male,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Yes
+38,Male,No,Never,26-100,No,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,No
+32,Male,Yes,Often,100-500,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,Don't know,No,Yes
+35,Male,No,Sometimes,100-500,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,No,Maybe,Yes,No,Yes
+29,Male,No,Never,100-500,No,No,Yes,Yes,Yes,No,Yes,Very easy,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No,No
+23,Male,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes
+28,Male,No,Sometimes,26-100,No,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,Yes
+40,Male,Yes,Sometimes,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,Yes
+41,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,No
+29,Male,No,Never,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,No
+29,Male,No,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,Yes
+35,Male,No,Often,1-5,No,No,No,No,No,No,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,Yes
+28,Male,No,Never,6-25,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+36,Female,No,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,No
+39,Male,No,Sometimes,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,No
+39,Male,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes
+44,Male,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,No,Very easy,Yes,Yes,Some of them,No,No,No,Yes,No,Yes
+26,Other,No,Sometimes,6-25,Yes,Yes,No,Not sure,Yes,Yes,Yes,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Yes
+35,Male,Yes,Often,1-5,No,Yes,No,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Yes
+40,Male,Yes,Sometimes,100-500,No,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,Yes
+35,Male,Yes,Often,1-5,No,Yes,No,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Yes
+38,Male,No,Never,More than 1000,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,No,Don't know,No,No
+48,Male,Yes,Often,26-100,No,Yes,Don't know,No,No,No,No,Very difficult,Yes,Yes,No,Some of them,No,No,No,Yes,No
+20,Male,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+40,Male,No,Sometimes,1-5,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,No
+29,Male,No,Rarely,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+35,Male,Yes,Sometimes,1-5,No,No,No,Yes,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Yes
+29,Male,Yes,Sometimes,More than 1000,Yes,No,Yes,Yes,No,Yes,Yes,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,No
+40,Male,No,Never,100-500,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,No
+29,Male,No,Rarely,6-25,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes
+29,Female,Yes,Rarely,100-500,No,Yes,Yes,Not sure,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Yes
+34,Male,No,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,Yes
+44,Male,Yes,Sometimes,500-1000,No,No,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,Yes
+24,Male,Yes,Often,6-25,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,Yes
+36,Male,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,No,No,No
+43,Male,No,Sometimes,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes
+36,Male,No,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Don't know,Yes,No
+31,Male,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Yes
+35,Male,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,No
+37,Male,No,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,No
+34,Male,No,Sometimes,100-500,No,Yes,Don't know,No,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Yes
+36,Male,No,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,No,No,No,Yes,No,Yes
+40,Male,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes
+40,Male,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,No
+42,Male,No,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,No,No,No,Maybe,Don't know,No,Yes
+21,Male,Yes,Never,6-25,No,No,No,No,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,No
+26,Male,No,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,No
+51,Male,No,Never,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,No
+32,Male,Yes,Rarely,6-25,No,No,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Yes
+32,Male,Yes,Rarely,6-25,No,No,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Yes
+26,Male,No,Rarely,1-5,Yes,Yes,No,Not sure,Don't know,Don't know,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+23,Male,No,Never,100-500,No,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,No
+33,Male,Yes,Often,6-25,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,Yes
+46,Male,No,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No,Yes
+35,Male,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+32,Male,No,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,No,No,No
+56,Male,No,Rarely,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+32,Male,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,Yes
+30,Male,Yes,Sometimes,6-25,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,Don't know,No,Yes
+23,Male,Yes,Never,More than 1000,No,No,No,No,No,Yes,Don't know,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Don't know,No,No
+31,Male,No,Never,26-100,No,Yes,Yes,Yes,No,Don't know,Yes,Very easy,Maybe,No,No,No,No,No,Don't know,No,Yes
+29,Male,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Yes
+30,Other,No,Never,26-100,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+37,Male,No,Never,500-1000,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Yes,No
+36,Male,No,Never,1-5,No,Yes,Yes,No,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Yes,Yes,Yes,Yes,No,No
+35,Male,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,No,Yes
+41,Male,Yes,Never,500-1000,Yes,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,No
+31,Male,No,Rarely,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+39,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,Yes,No
+42,Male,Yes,Sometimes,6-25,Yes,No,Yes,Not sure,Don't know,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,No
+32,Male,Yes,Rarely,1-5,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,Yes
+30,Male,Yes,Never,100-500,No,Yes,Yes,No,Don't know,Yes,Don't know,Very difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,No,No
+40,Male,Yes,Often,500-1000,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No,Yes
+33,Male,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,No
+34,Male,No,Sometimes,1-5,Yes,Yes,No,Not sure,No,No,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+50,Male,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No
+24,Male,No,Sometimes,26-100,Yes,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,No
+25,Male,Yes,Rarely,26-100,No,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,Yes
+43,Male,Yes,Rarely,26-100,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,Yes
+25,Female,No,Often,1-5,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Yes,Yes
+51,Male,No,Never,1-5,No,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,No
+49,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,Yes
+25,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Yes,No,No,No,No,No,No,Yes
+36,Male,No,Rarely,500-1000,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Yes
+48,Male,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Yes,Yes,No,Maybe,Yes,Yes,Yes
+48,Male,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,Yes,Yes
+53,Male,No,Rarely,6-25,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Yes
+24,Male,Yes,Often,6-25,Yes,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,Yes
+33,Male,Yes,Sometimes,26-100,No,Yes,Don't know,Yes,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Yes
+25,Male,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+30,Male,No,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,Yes
+30,Male,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,No
+34,Male,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No,Yes
+22,Female,Yes,Often,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Yes
+28,Male,Yes,Sometimes,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No,No
+35,Male,Yes,Rarely,26-100,No,No,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No,Yes
+28,Male,Yes,Sometimes,26-100,No,No,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Yes
+42,Male,No,Sometimes,More than 1000,No,No,No,Yes,Don't know,No,Yes,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Yes,No,Yes,Yes
+29,Male,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,No
+43,Male,Yes,Sometimes,500-1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,No,No,No
+31,Male,Yes,Never,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,No
+35,Male,Yes,Sometimes,6-25,No,No,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,Yes
+34,Male,No,Often,1-5,No,Yes,Don't know,No,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No
+43,Male,No,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,Yes
+38,Male,Yes,Sometimes,100-500,No,Yes,No,Not sure,No,No,Don't know,Very difficult,Yes,Yes,No,Some of them,No,Maybe,No,No,Yes
+26,Male,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Yes,Yes,Very difficult,Maybe,No,Some of them,Some of them,Yes,Yes,No,Yes,Yes
+38,Male,Yes,Rarely,1-5,Yes,No,No,No,No,No,Yes,Very difficult,Maybe,No,No,No,No,No,No,No,Yes
+42,Male,No,Often,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Yes
+32,Male,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes
+44,Male,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,Yes
+28,Male,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Yes
+40,Male,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes
+31,Female,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Yes
+32,Male,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,No,No
+28,Male,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,Yes
+39,Male,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,No,Some of them,No,No,No,No,No,Yes
+43,Male,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Yes
+35,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+40,Male,Yes,Sometimes,6-25,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes
+34,Male,No,Rarely,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+24,Male,Yes,Often,26-100,No,No,Don't know,Yes,No,No,No,Somewhat easy,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,Yes
+61,Male,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,Yes
+36,Male,Yes,Rarely,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,Yes
+33,Male,Yes,Often,26-100,No,Yes,Don't know,Not sure,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,Yes
+30,Male,Yes,Never,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,No,No
+34,Male,Yes,Rarely,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Some of them,No,Maybe,Yes,No,Yes
+26,Male,No,Rarely,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No,Yes
+25,Male,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,No
+35,Male,No,Sometimes,26-100,Yes,No,Don't know,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,Yes,No,No,Maybe,Don't know,No,Yes
+24,Male,Yes,Often,1-5,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,No
+55,Male,No,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,Maybe,No,Some of them,No,Maybe,No,Yes,Yes
+33,Male,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Yes
+26,Male,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+25,Male,No,Never,6-25,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,No
+45,Male,Yes,Rarely,100-500,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,No
+33,Male,No,Sometimes,1-5,Yes,Yes,No,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+43,Male,No,Sometimes,More than 1000,Yes,Yes,No,Not sure,No,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,No
+30,Male,No,Sometimes,6-25,No,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,No,Yes,Yes,Yes
+40,Male,Yes,Rarely,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Yes
+49,Male,Yes,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,No,No,Yes,No,No
+38,Male,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes,No
+26,Male,No,Never,6-25,No,Yes,Yes,No,No,No,No,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,No
+28,Male,Yes,Often,26-100,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Yes,No,No,No,No,Yes
+40,Male,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,Yes
+37,Male,Yes,Rarely,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Yes,Yes
+34,Male,Yes,Often,26-100,Yes,No,Yes,Yes,No,Yes,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,Yes
+28,Male,Yes,Often,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Yes
+27,Male,No,Never,26-100,No,Yes,Yes,Not sure,Yes,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No
+29,Male,No,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,Yes
+39,Male,Yes,Rarely,500-1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,No
+28,Male,No,Often,6-25,No,Yes,No,No,No,No,No,Somewhat difficult,Yes,No,No,No,No,Yes,Yes,No,No
+23,Male,Yes,Sometimes,26-100,No,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,No,No,No,No,No,Maybe,Don't know,No,No
+30,Male,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Don't know,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No,Yes
+20,Male,No,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Yes,No,Yes
+35,Male,No,Sometimes,1-5,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,No
+39,Male,No,Rarely,100-500,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes
+31,Male,Yes,Never,More than 1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,No
+32,Male,No,Rarely,500-1000,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,No
+25,Male,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Yes
+42,Male,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Yes
+34,Male,Yes,Often,100-500,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Yes
+26,Male,No,Sometimes,26-100,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Maybe,Don't know,Yes,Yes
+35,Male,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,Yes,Yes,Yes
+34,Male,No,Never,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,Maybe,No,Yes,Yes,No,No,Yes,No,No
+38,Male,Yes,Sometimes,100-500,Yes,No,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes
+34,Male,No,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,No
+39,Male,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Yes
+33,Male,No,Never,1-5,Yes,Yes,No,Yes,Don't know,Don't know,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,No,No
+24,Male,Yes,Sometimes,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,No
+38,Male,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,No
+31,Male,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Yes,No,No
+46,Male,No,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,No,Yes,Yes
+30,Male,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+25,Male,No,Rarely,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Yes,Don't know,Yes,No
+19,Male,No,Never,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,No,No,No
+30,Male,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,No,Yes,Yes
+32,Male,No,Never,6-25,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,No
+37,Male,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,No
+42,Male,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+25,Male,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,No,Yes,No,No
+19,Male,No,Sometimes,1-5,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,No
+40,Male,Yes,Never,100-500,Yes,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,No
+31,Male,Yes,Rarely,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+40,Male,Yes,Sometimes,More than 1000,Yes,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,No
+31,Male,Yes,Often,26-100,No,Yes,No,No,No,No,No,Very difficult,Yes,No,No,No,No,Yes,No,Yes,Yes
+36,Male,No,Never,100-500,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Yes,No
+35,Male,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No,No
+26,Male,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No,Yes
+34,Male,No,Sometimes,1-5,No,Yes,No,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No
+28,Male,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,No,No,Yes
+40,Male,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Yes
+26,Male,No,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+29,Female,No,Often,More than 1000,No,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,No,Yes,Yes
+26,Male,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+33,Other,Yes,Sometimes,6-25,No,Yes,No,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+28,Male,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,Yes,No
+41,Male,No,Often,1-5,Yes,No,No,Yes,Yes,Yes,Yes,Very difficult,No,No,Some of them,Some of them,No,No,Yes,Yes,Yes
+39,Male,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,Yes,Yes
+26,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,Yes,Yes
+23,Male,Yes,Sometimes,26-100,No,No,No,No,No,No,Don't know,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,No,No,No
+35,Male,Yes,Often,More than 1000,No,Yes,Don't know,Not sure,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,Yes
+36,Male,No,Never,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,No
+42,Male,No,Rarely,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,No
+39,Male,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes
+27,Male,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,No,No
+33,Male,No,Never,6-25,Yes,Yes,Don't know,No,No,No,No,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,No
+31,Male,Yes,Often,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+28,Male,No,Rarely,6-25,No,Yes,Yes,Yes,Don't know,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Yes,Don't know,No,Yes
+29,Male,No,Often,More than 1000,Yes,No,Yes,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Yes
+27,Male,No,Sometimes,100-500,No,Yes,Don't know,Not sure,No,No,Yes,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,No,Yes
+44,Male,No,Never,1-5,Yes,Yes,Don't know,No,No,No,Yes,Somewhat difficult,No,No,No,No,No,No,Don't know,No,No
+25,Male,No,Often,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+24,Male,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,No,Don't know,No,Yes
+25,Male,Yes,Often,6-25,No,No,Don't know,No,No,No,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,No,Yes,Yes
+34,Male,No,Never,6-25,Yes,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,Maybe,Don't know,No,No
+26,Male,No,Never,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Somewhat difficult,Maybe,No,No,Yes,No,No,Don't know,No,No
+48,Male,No,Never,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,No
+39,Male,No,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,Yes
+43,Male,No,Sometimes,More than 1000,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,No
+41,Male,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,Yes,No
+25,Male,No,Never,More than 1000,No,No,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,No
+31,Male,No,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,Yes
+40,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,No,No,No,Maybe,No,Yes,Yes
+43,Male,Yes,Sometimes,1-5,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Yes
+27,Male,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes,Yes
+37,Male,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Yes
+32,Male,No,Sometimes,1-5,No,Yes,No,No,No,No,Yes,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,No,Yes
+25,Male,Yes,Often,1-5,No,Yes,No,Yes,No,No,Yes,Very easy,Maybe,No,Yes,Yes,No,Maybe,No,No,Yes
+29,Male,Yes,Often,1-5,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Very difficult,No,Maybe,Yes,Yes,Maybe,No,Yes,No,Yes
+30,Male,Yes,Often,More than 1000,No,No,Yes,No,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No,Yes
+34,Male,Yes,Often,26-100,No,No,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,Yes
+32,Male,Yes,Sometimes,1-5,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,Yes
+41,Male,No,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Yes
+38,Male,Yes,Never,More than 1000,No,No,Yes,Not sure,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,No
+32,Male,No,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Yes
+28,Male,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Yes
+43,Male,Yes,Never,100-500,No,No,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,No
+32,Male,Yes,Often,100-500,No,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,Yes,Yes,No,Yes,No,No,Yes
+25,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,Yes,No,No,No,No,No,Yes,No,Yes
+37,Male,No,Sometimes,100-500,No,Yes,Yes,No,No,Yes,Yes,Very easy,No,No,No,Yes,No,No,Yes,No,Yes
+36,Male,No,Sometimes,1-5,No,No,No,Yes,No,No,No,Very difficult,No,No,No,No,No,No,No,Yes,Yes
+24,Male,Yes,Rarely,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Yes
+40,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes
+43,Male,No,Never,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Some of them,No,No,Yes,No,No
+26,Male,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,No
+33,Male,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,Maybe,No,Yes,Yes
+35,Male,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Yes,Some of them,No,No,Yes,No,No
+45,Male,No,Never,6-25,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,No
+25,Male,No,Rarely,6-25,Yes,Yes,No,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Yes
+50,Male,No,Sometimes,26-100,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,No,Yes
+26,Male,Yes,Rarely,26-100,No,Yes,No,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Yes
+33,Male,No,Often,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Yes
+30,Male,No,Often,6-25,No,Yes,No,No,No,No,No,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,No
+33,Male,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,No,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes
+29,Male,No,Often,6-25,No,Yes,Yes,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,Yes,No,No,Yes
+25,Male,Yes,Sometimes,1-5,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No,Yes
+24,Male,No,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Yes,No
+40,Male,No,Never,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Maybe,Don't know,No,Yes
+46,Male,Yes,Sometimes,6-25,No,Yes,Don't know,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Don't know,No,Yes
+38,Male,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,No,Yes,No,Yes,Don't know,No,Yes
+34,Male,No,Never,1-5,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,No
+32,Male,No,Rarely,1-5,No,Yes,No,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,Yes
+44,Male,No,Sometimes,More than 1000,No,No,No,No,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,Yes
+33,Male,No,Never,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Yes
+45,Male,No,Rarely,26-100,No,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes
+26,Male,Yes,Often,1-5,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,No,Yes,Yes
+20,Male,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Yes
+37,Male,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,No
+42,Female,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No,Yes
+36,Female,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Yes
+27,Male,No,Rarely,26-100,No,Yes,No,Yes,No,Yes,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes,No
+27,Male,No,Rarely,26-100,No,Yes,No,Yes,No,Yes,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes,No
+27,Male,No,Sometimes,More than 1000,No,No,No,No,No,No,Yes,Somewhat easy,Maybe,No,Yes,Yes,Maybe,Maybe,No,No,Yes
+25,Male,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes
+23,Male,Yes,Sometimes,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Yes
+21,Male,No,Sometimes,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Yes
+26,Male,No,Often,26-100,No,Yes,No,Yes,No,No,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes
+29,Male,No,Rarely,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,Yes,Don't know,Yes,No
+28,Male,No,Sometimes,More than 1000,No,No,No,No,No,No,Don't know,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,Yes,No
+23,Male,No,Never,More than 1000,No,No,No,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,Yes,Yes,No,No
+26,Female,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,No
+38,Male,Yes,Sometimes,1-5,No,Yes,No,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Yes
+39,Male,Yes,Sometimes,More than 1000,No,No,No,No,No,No,Yes,Very easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Yes,No,Yes
+35,Male,Yes,Often,More than 1000,No,No,Yes,Yes,No,Yes,Don't know,Somewhat easy,Yes,No,No,Some of them,No,Yes,Don't know,No,Yes
+32,Male,No,Rarely,6-25,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,No
+32,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Yes,Yes
+26,Male,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,No
+38,Male,Yes,Rarely,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Yes
+34,Male,Yes,Rarely,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No
+39,Male,Yes,Often,26-100,No,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes
+32,Male,No,Never,6-25,Yes,Yes,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No
+37,Male,No,Never,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,No
+31,Male,Yes,Never,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Yes
+30,Male,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,Yes
+51,Male,No,Never,More than 1000,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,No,No,No,No
+29,Male,No,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes
+31,Male,No,Never,100-500,No,Yes,Yes,No,No,Yes,Don't know,Don't know,Maybe,Yes,Some of them,No,No,No,Yes,No,No
+26,Male,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Yes
+46,Male,No,Often,100-500,Yes,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Yes
+32,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,No
+29,Male,Yes,Sometimes,26-100,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+34,Male,No,Never,More than 1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,No
+26,Male,No,Often,6-25,No,Yes,No,No,No,No,No,Very difficult,Yes,No,No,No,No,Maybe,Yes,No,No
+32,Male,No,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Yes
+40,Female,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,Yes,Yes
+23,Male,No,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very difficult,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+20,Male,No,Rarely,26-100,No,No,No,No,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,Maybe,No,No,No
+26,Male,Yes,Rarely,100-500,No,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,Yes
+29,Male,No,Never,26-100,No,Yes,No,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,No,Yes,No
+40,Male,No,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,No
+25,Male,No,Sometimes,26-100,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,Maybe,No,No,No,Yes
+32,Female,No,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,No,No,Yes
+38,Male,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes,Yes
+35,Male,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Yes
+28,Female,No,Often,6-25,No,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes
+27,Other,No,Never,100-500,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,No
+56,Male,No,Rarely,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,No
+38,Male,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes
+40,Male,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,Yes
+44,Male,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes
+34,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,No
+37,Male,No,Never,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No,No
+38,Male,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,No,No,Some of them,Yes,Yes,Maybe,No,No,No
+34,Male,No,Sometimes,500-1000,No,No,Yes,Yes,Yes,No,Yes,Don't know,Yes,Yes,Some of them,Some of them,No,No,Yes,No,Yes
+35,Male,No,Rarely,1-5,No,Yes,Don't know,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,No
+34,Male,No,Often,6-25,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,No,Yes
+32,Male,No,Often,26-100,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,Don't know,No,Yes
+28,Male,No,Often,100-500,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,Yes
+28,Male,No,Rarely,6-25,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,Yes,Yes,Some of them,No,No,No,No,Yes,Yes
+34,Male,Yes,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes
+32,Male,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,Yes
+34,Male,Yes,Often,26-100,Yes,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,No
+23,Male,No,Sometimes,1-5,No,Yes,No,Yes,No,No,No,Very easy,Maybe,Maybe,Some of them,Yes,No,No,No,No,Yes
+33,Male,Yes,Often,100-500,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Yes,No
+29,Male,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,Yes
+45,Male,No,Never,More than 1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,No,Yes,Some of them,No,No,No,Yes,No
+34,Male,No,Sometimes,More than 1000,No,No,No,Yes,No,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes,Yes
+31,Male,No,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,Maybe,No,Yes,No
+33,Male,No,Often,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes
+27,Male,No,Rarely,More than 1000,Yes,No,Don't know,Not sure,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,No
+42,Male,No,Never,26-100,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,Yes,Some of them,Some of them,No,No,No,No,No
+38,Male,No,Sometimes,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Don't know,No,Yes
+46,Male,Yes,Often,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Yes
+46,Male,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,Yes
+41,Male,No,Rarely,1-5,Yes,Yes,Don't know,Yes,Don't know,Yes,No,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+23,Male,No,Never,26-100,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Yes,Yes,No
+24,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Yes,Yes,Yes
+23,Male,No,Rarely,26-100,No,Yes,No,Yes,Yes,No,Don't know,Don't know,No,No,Yes,Some of them,No,Maybe,Don't know,No,Yes
+32,Male,Yes,Never,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,No
+25,Male,Yes,Sometimes,26-100,No,Yes,Don't know,Yes,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes
+23,Male,Yes,Sometimes,6-25,No,Yes,No,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+24,Other,No,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes
+25,Male,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+23,Male,No,Rarely,6-25,No,Yes,No,Yes,No,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Yes
+24,Male,No,Sometimes,6-25,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Yes
+23,Male,No,Often,26-100,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No,Yes
+60,Male,No,Often,More than 1000,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Yes
+28,Male,No,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,Don't know,Yes,Maybe,No,No,No,No,No,Yes,No
+28,Male,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,Some of them,Yes,No,No,No,Yes,Yes
+30,Male,No,Sometimes,500-1000,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,Don't know,No,No
+31,Male,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Yes,Somewhat easy,No,No,Some of them,No,No,No,Don't know,No,Yes
+31,Male,No,Often,6-25,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,Yes
+28,Male,No,Rarely,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Yes
+43,Female,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes
+22,Male,Yes,Often,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,No,Yes,No,Maybe,Don't know,Yes,Yes
+32,Male,No,Never,100-500,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,Somewhat easy,No,No,No,Some of them,Maybe,Yes,Don't know,No,No
+36,Male,No,Often,6-25,No,Yes,No,No,No,No,No,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,Yes,Yes
+41,Male,Yes,Sometimes,26-100,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Yes
+30,Male,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Don't know,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+30,Male,Yes,Often,26-100,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes
+36,Male,Yes,Often,100-500,No,No,No,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Yes,No,Yes
+29,Male,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,Yes,No,Yes,Don't know,Yes,No,Some of them,No,No,Maybe,No,No,Yes
+36,Male,Yes,Rarely,More than 1000,No,No,Don't know,No,Yes,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No
+32,Male,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,Yes,No,Yes
+34,Male,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,Yes
+25,Male,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Yes
